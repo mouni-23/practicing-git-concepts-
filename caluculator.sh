@@ -12,7 +12,6 @@ b=a-b
 
 
 a= b/c*3
->>>>>>> division
 
 
 n=number
