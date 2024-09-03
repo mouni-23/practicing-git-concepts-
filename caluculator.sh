@@ -22,7 +22,7 @@ a= b/c*3
 >>>>>>> division
 
 
-
+n=numbern=numbern=numbern=numbern=numbern=numbern=numbern=number
 
 
 <<<<<<< HEAD
